@@ -1,6 +1,4 @@
 
-## Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking
-
 
 ### Overview 
 
