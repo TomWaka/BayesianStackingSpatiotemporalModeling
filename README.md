@@ -4,7 +4,7 @@
 
 This repository presents code implementing Bayesian Predictive Stacking for Process-based Model, as proposed by the following paper:
 
-**[Wakayama, T. and Banerjee, S. (2024). Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking.](https://arxiv.org/abs/2405.09906)**
+**Wakayama, T. and Banerjee, S. (2024). [Process-based Inference for Spatial Energetics Using Bayesian Predictive Stacking.](https://arxiv.org/abs/2405.09906)**
 
 ## System Requirements 🖥
 
